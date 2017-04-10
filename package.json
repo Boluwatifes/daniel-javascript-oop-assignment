@@ -1,0 +1,24 @@
+{
+  "name": "simple-oop-inventory-javascript",
+  "version": "1.0.0",
+  "description": "This is a simple javascript oop driven exercise. It is a simple inventory system that can is mainly for learning purposes and can be greatly improved upon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boluwatifes/daniel-javascript-oop-assignment.git"
+  },
+  "keywords": [
+    "oop",
+    "javascript",
+    "andela"
+  ],
+  "author": "Bamidele Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boluwatifes/daniel-javascript-oop-assignment/issues"
+  },
+  "homepage": "https://github.com/Boluwatifes/daniel-javascript-oop-assignment#readme"
+}
